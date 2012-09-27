@@ -12,7 +12,7 @@ import ua.pp.serendipity.eticket.ui.ClipboardContainer;
 
 import java.io.IOException;
 
-public class Application {
+public class ETicketApp {
 
     public static void main(String[] args) throws IOException {
         ETicketParser etp = new ETicketParser();
